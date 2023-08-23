@@ -16,4 +16,4 @@ I studied the essential features or mechanisms that make biological strategies s
 EMULATE\
 I looked for patterns and relationships among the strategies I found and tried to relate them to my solution. I developed design concepts based on these elements.
 
-
+![image](https://github.com/nk-16/Soft-robotic-fish/assets/128499808/76c3be9d-611a-48a3-a22d-4f041ac3743e)
